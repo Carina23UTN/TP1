@@ -1,0 +1,18 @@
+p{color: brown;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+}
+
+ul{
+    color: blue;
+}
+li{
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: crimson;
+}
